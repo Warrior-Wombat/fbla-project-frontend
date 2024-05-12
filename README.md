@@ -3,6 +3,8 @@
 ## Overview
 This is our frontend code for our FBLA submission. Installation instructions are down below.
 
+### BusinessDB - the database of the future.
+
 ## Project Setup
 
 ### Installing Dependencies
@@ -25,3 +27,5 @@ npm run build
 ```
 npm run lint
 ```
+
+You need to also download the fbla-project-backend repository as well, and configure any env variables if you want to fully utilize the services present inside of this app.
